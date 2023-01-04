@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+*{
+  font-family: 'Rubik', sans-serif;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: ;
+  background: #efefef;
+}
+.container {
+  position: relative;
+  max-width: 600px;
+  height: 500px;
+  padding: 50px;
+  color: #555;
+  text-align: center;
+}
+.langWrap{
+  background: #f8f9fa;
+  margin-top: 20px;
+}
+a{
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  padding: 0 15px;
+  font-weight: bold;
+  background: #555656;
+  font-size: 18px;
+}
+a.active{
+  background: #800020;
+}
+.content{
+  margin-top: 20px;
+  font-size: 20px;
+  background: #efefef;
+}
+
+.title {
+	;
+	
+}
+
+.subtitle1{
+font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    font-display: swap;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.subtitle2{
+font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    font-display: swap;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.subtitle3{
+font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    font-display: swap;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.العربية{
+	font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    font-display: swap;
+	font-weight: bold;
+	text-align: right;
+}
